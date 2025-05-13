@@ -20,7 +20,7 @@ A professional, responsive, multi-page blog website built with HTML5, CSS3, and 
    - Access the live URL.
 
 ## Live URL
-[Insert GitHub Pages URL after deployment, e.g., https://your-username.github.io/modern-blog-website/]
+(Live Site)[https://blessed-shammah.github.io/feb-2025-final-project-and-deployment-Blessed-Shammah/]
 
 ## File Structure
 - `index.html`: Home page with blog posts and filter.
