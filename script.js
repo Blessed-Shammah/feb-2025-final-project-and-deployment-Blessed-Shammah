@@ -1,10 +1,10 @@
 function filterPosts(category) {
   const posts = document.querySelectorAll(".post");
-  const buttons = document.querySelectorAll(".flex button");
+  const buttons = document.querySelectorAll(".filter button");
 
   // Update button states
-  buttons.forEach((btn) => btn.classList.remove("active", "bg-indigo-500", "text-white"));
-  event.target.classList.add("active", "bg-indigo-500", "text-white");
+  buttons.forEach((btn) => btn.classList.remove("active"));
+  event.target.classList.add("active");
 
   // Filter posts
   posts.forEach((post) => {
